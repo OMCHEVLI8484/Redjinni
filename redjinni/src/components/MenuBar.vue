@@ -26,21 +26,21 @@
         <div class="col51">
             <div class="red">
                 <h2 class="since"> <span>Since 2014</span></h2>
-                <h2 class="since">Goood is the Enemy of Great and we don't settle for Good things.
+                <h2 class="since">Good is the Enemy of Great and we don't settle for Good things.
                     We create only Great opportunities.
                 </h2>
                 <div class="line">
                     <div class="redline"></div>
                     <p class="med">
-                        Our Team Consist of Big Picture thinkers,
-                        Creaft Creators,Distinguished Developers,
+                        Our Team Consists of Big Picture thinkers,
+                        Crafty Creators, Distinguished Developers,
                         and Your Vision as the Canvas to Create an Aesthetic Piece of Art.
 
                     </p>
                 </div>
                 <p class="small">
                     With Actively Taken Feedback & by Leveraging Smart Frameworks
-                    and data-driven insight with our FInest Services,We Provide our
+                    and data-driven insight with our Finest Services, We Provide our
                     Clients Incredibly Satisfying Work to Stand out from Crowd.
                 </p>
             </div>
@@ -52,41 +52,41 @@
             <div class="box">
                 <img src="../assets/img1.png" alt="pic">
                 <h2>Web development & UI/UX</h2>
-                <h3>We develop website that User adore & interface that is</h3>
+                <h3>We develop website that User adore & interface that is and we understand what it takes to build a brand from the design perspective.</h3>
             </div>
             <div class="box">
                 <img src="../assets/img2.png" alt="pic">
                 <h2>Marketing Strategey</h2>
-                <h3>Our Significant Strategy will benefit your company to achieve.</h3>
+                <h3>Our Significant Strategy will benefit your company to achieve.our ultimate goal of a marketing strategy is to communicate a sustainable competitive advantages.</h3>
             </div>
         </div>
         <div class="col30">
             <div class="box2">
                 <img src="../assets/img3.png" alt="pic">
                 <h2>SEO</h2>
-                <h3>SEO plays a crucial role if your business has a website,if not</h3>
+                <h3>SEO plays a crucial role if your business has a website. SEO stands for the practice of increasing the quantity and quality of traffic to your website through organic search engine results.</h3>
             </div>
             <div class="box2">
                 <img src="../assets/img4.png" alt="pic">
                 <h2>SMM</h2>
-                <h3>In ther generation of social media don't be an exception,create</h3>
+                <h3>we have an extraordinary range of avenues to connect with target audiences from content platforms and social sites to microblogging services.</h3>
             </div>
             <div class="box2">
                 <img src="../assets/img5.png" alt="pic">
                 <h2>brand marketing</h2>
-                <h3>We build brand that customers indulge for.</h3>
+                <h3>We build brand that customers indulge for and also We establishing and growing a relationship between a brand and consumers.</h3>
             </div>
         </div>
         <div class="col352">
             <div class="box">
                 <img src="../assets/img6.png" alt="pic">
                 <h2>CONTENT MARKETING & PUBLIC RELATION</h2>
-                <h3>Content is a king and we are a king maker.</h3>
+                <h3>Content is a king and we are a king maker and also we build and maintain relationships with the public which is very important factor for us.</h3>
             </div>
             <div class="box">
                 <img src="../assets/img7.png" alt="pic">
                 <h2>CREATIVE AND WRITING</h2>
-                <h3>Creatives on latest events in monetary with effective writing.</h3>
+                <h3>Creatives on latest events in monetary with effective writing.We do creatively and attractive writing for targetting to audiences.</h3>
             </div>
         </div>
     </div>
